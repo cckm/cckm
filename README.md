@@ -2,8 +2,7 @@
 <img src="https://github.com/cckm/cckm/blob/main/Hello.%20There%20really%20isn't%20much%20to%20see%20here.%20You%20can%20leave%20now.%20Bye..gif" align="center" style="width: 100%" />
 </div>  
 
-
-### <div align="left">I'm a hobbyist, still figuring this whole data science thing out.</div>
+# <div align="left"><img src="https://github.com/cckm/cckm/blob/main/waving_hand.gif" width="40px"> I'm just a hobbyist, still trying to figure this whole data science thing out.</div>
 
 - 🔭 Currently working on personal data science projects.
 - 💬 ~~Ask me~~ about financial independence and/or C-Dramas.
@@ -42,9 +41,6 @@
 
 <a href="https://github.com/cckm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/wei-chi-loh-35458b11a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/TO BE ADDED" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
