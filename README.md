@@ -1,13 +1,13 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/cckm/cckm/blob/main/Hello.%20There%20really%20isn't%20much%20to%20see%20here.%20You%20can%20leave%20now.%20Bye..gif" align="center" style="width: 100%" />
 </div>  
 
 
-### <div align="center">I'm just a hobbyist, still figuring this whole data science thing out.</div>
+### <div align="left">I'm a hobbyist, still figuring this whole data science thing out.</div>
 
 - 🔭 Currently working on personal data science projects.
 - 💬 ~~Ask me~~ about financial independence and/or C-Dramas.
-- ⚡ Fun fact: I learnt to write with both hands.  
+- ⚡ Fun fact: I learnt to write with both hands after fracturing my dominant wrist.  
   <br/>
 
 ## Skills
