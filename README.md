@@ -29,11 +29,12 @@
 <br/>
 
 ## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cckm&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cckm&theme=gotham&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm&theme=gotham&hide_border=true" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ckm&&style=for-the-badge&color=yellowgreen" align="center" />
 <br/>
-
+  
 ## My (Meagre) Online Presence
 
 <a href="https://github.com/cckm" target="_blank">
@@ -43,6 +44,3 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ckm&&style=flat-square" align="right" />
-<br />
