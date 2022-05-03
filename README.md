@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/cckm/cckm/blob/main/Hello.%20There%20really%20isn't%20much%20to%20see%20here.%20You%20can%20leave%20now.%20Bye..gif" align="center" style="width: 100%" />
+<img src="https://github.com/cckm/cckm/blob/main/intro_banner.gif" align="center" style="width: 100%" />
 </div>  
 
 # <div align="left"><img src="https://github.com/cckm/cckm/blob/main/waving_hand.gif" width="40px"> I'm just a hobbyist, still trying to figure this whole data science thing out.</div>
