@@ -51,8 +51,8 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm" align="center" />
 <br/>
 
 <div align="right">
