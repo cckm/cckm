@@ -7,35 +7,31 @@
 - 🔭 Currently working on personal data science projects.
 - 💬 ~~Ask me~~ about financial independence and/or C-Dramas.
 - ⚡ Fun fact: I learnt to write with both hands after fracturing my dominant wrist.  
-  <br/>
+<br/>
 
 ## Skills
-
-<table><tr><td valign="top" width="50%">
-
-### Primarily focusing on:
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-</div>
-
-</td><td valign="top" width="50%">
+### I'm mainly focusing on:
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=Python&style=for-the-badge"/>
+</p>
 
 ### I've dabbled with:
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-</div>
-
-</td></tr></table>
-
+<p>
+<img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-black?logo=Javascript&style=for-the-badge"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-black?logo=CSS3&style=for-the-badge"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-black?logo=HTML5&style=for-the-badge"/>
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-black?logo=Tableau&style=for-the-badge"/>
+<img alt="R" src="https://img.shields.io/badge/R-black?logo=R&style=for-the-badge"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&style=for-the-badge"/>
+</p>
 <br/>
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm" align="center" />
 
 ## My (Meagre) Online Presence
 
@@ -45,22 +41,7 @@
 <a href="https://www.kaggle.com/TO BE ADDED" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-
-
 <br/>
 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm" align="center" />
-<br/>
-
-<div align="right">
 <img src="https://komarev.com/ghpvc/?username=ckm&&style=flat-square" align="right" />
-</div>
-
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
