@@ -10,7 +10,7 @@
 <br/>
 
 ## Skills
-### I'm mainly focusing on:
+### I'm focusing on:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=Python&style=for-the-badge"/>
 </p>
@@ -32,6 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cckm&show_icons=true&count_private=true&hide_border=true&show_icons=true&custom_title=Key Stats" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cckm" align="center" />
+<br/>
 
 ## My (Meagre) Online Presence
 
