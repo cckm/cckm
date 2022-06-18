@@ -2,7 +2,7 @@
 <img src="https://github.com/cckm/cckm/blob/main/intro_banner.gif" align="center" style="width: 100%" />
 </div>  
 
-# <div align="left"><img src="https://github.com/cckm/cckm/blob/main/waving_hand.gif" width="10px"> I'm just a hobbyist, still trying to figure this whole data science thing out.</div>
+# <div align="left">I'm just a hobbyist, still trying to figure this whole data science thing out.</div>
 
 - 🔭 Currently working on personal data science projects.
 - 💬 ~~Ask me~~ about financial independence and/or C-Dramas.
